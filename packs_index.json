@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "main_pack_1",
+      "type": "main",
+      "fromLevel": 15,
+      "toLevel": 20,
+      "version": 1,
+      "url": "https://github.com/leftycodes/game-level-packs/releases/download/v1/pack_1.json"
+    }
+  ]
+}
