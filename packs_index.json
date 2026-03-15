@@ -7,6 +7,14 @@
       "toLevel": 20,
       "version": 1,
       "url": "https://github.com/leftycodes/game-level-packs/releases/download/v1/pack_1.json"
+    },
+    {
+      "id": "main_pack_2",
+      "type": "main",
+      "fromLevel": 21,
+      "toLevel": 31,
+      "version": 1,
+      "url": "https://github.com/leftycodes/game-level-packs/releases/download/v2/pack_2.json"
     }
   ]
 }
